@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "MArionRenee <marion.dortschack@gmx.net>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "randomcolor": "^0.6.2"
+  }
 }
