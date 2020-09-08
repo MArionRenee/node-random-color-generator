@@ -1,0 +1,7 @@
+{
+  "name": "node-random-color-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "MArionRenee <marion.dortschack@gmx.net>",
+  "license": "MIT"
+}
